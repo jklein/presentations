@@ -1,9 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>JSDay 2013 - Practice Responsive Web Design</title>
-</head>
-<body>
+<?php
 
-</body>
-</html>
+$title = "JSDay 2013 - Practical Responsive Web Design";
+include 'includes/header.php';
+?>
+
+<div class="container">
+
+</div>
+
+<?php
+
+include 'includes/footer.php';
