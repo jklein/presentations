@@ -19,6 +19,7 @@ include 'includes/header.php';
             </strong> from
             <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
         </div>
+	<h4><a href="http://joind.in/talk/view/8644">Rate this talk!</a></h4>
     </div>
 
     <div class="resources row">
@@ -45,6 +46,11 @@ include 'includes/header.php';
             <ul>
                 <li><a href="http://www.slideshare.net/vortexau/improving-php-application-performance-with-apc-presentation">Overview Presentation</a></li>
                 <li><a href="http://engineering.wayfair.com/moving-constants-out-of-apc-and-into-cdb/">CDB vs. APC</a></li>
+            </ul>
+            <h5>Framework Benchmarks</h5>
+            <ul>
+                <li><a href="http://systemsarchitect.net/performance-benchmark-of-popular-php-frameworks/">PHP Framework Comparison</a></li>
+                <li><a href="http://www.techempower.com/benchmarks/">Comparison of Many Web Frameworks</a></li>
             </ul>
         </div>
         <div class="span6">
