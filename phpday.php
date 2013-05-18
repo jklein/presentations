@@ -65,6 +65,7 @@ include 'includes/header.php';
             <h5>HipHop</h5>
             <ul>
                 <li><a href="http://developers.facebook.com/blog/post/2010/02/02/hiphop-for-php--move-fast/">Announcement</a></li>
+                <li><a href="https://www.facebook.com/notes/facebook-engineering/speeding-up-php-based-development-with-hiphop-vm/10151170460698920">HipHop VM</a></li>
                 <li><a href="https://github.com/facebook/hiphop-php">Github project</a></li>
             </ul>
             <h5>Other Links</h5>
