@@ -6,14 +6,14 @@ include 'includes/header.php';
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="" width="683" height="570"
-            frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-            style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
+        <iframe src="http://www.slideshare.net/slideshow/embed_code/25336613"
+            width="683" height="570" frameborder="0" marginwidth="0" marginheight="0"
+            scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
             allowfullscreen webkitallowfullscreen mozallowfullscreen>
         </iframe>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="#"
+                <a href="http://www.slideshare.net/jnklein/scaling-php-to-40-million-uniques"
                     title="Northeast PHP 2013 - Scaling PHP to 40 Million Uniques" target="_blank">
                     Northeast PHP 2013 - Scaling PHP to 40 Million Uniques
                 </a>
@@ -38,10 +38,18 @@ include 'includes/header.php';
             <ul>
                 <li><a href="http://www.slideshare.net/jnklein/northeast-php-high-performance-php">My Talk From NEPHP 2012</a></li>
             </ul>
-            <h5>Making Changes</h5>
+            <h5>Atomic Deploys</h5>
             <ul>
-                <li><a href="http://codeascraft.com/2010/05/20/quantum-of-deployment/">Deployinator</a></li>
-                <li><a href="http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/">Infrastructure Upgrades with Chef</a></li>
+                <li><a href="http://codeascraft.com/2013/07/01/atomic-deploys-at-etsy/">Blog Post</a></li>
+                <li><a href="https://github.com/etsy/mod_realdoc">mod_realdoc</a></li>
+                <li><a href="https://github.com/etsy/incpath">incpath</a></li>
+            </ul>
+            <h5>Etsy Listings</h5>
+            <ul>
+                <li><a href="https://www.etsy.com/listing/61131989/santa-costume-holiday-cape-and-santa-hat">Santa Cape and Hat</a></li>
+                <li><a href="https://www.etsy.com/listing/106740592/small-pet-santa-costume-pet-santa-suit">Small Pet Santa Costume</a></li>
+                <li><a href="https://www.etsy.com/listing/152423714/santa-cat-dog-hat-costume-the-santa">Cat and Dog Costumes</a></li>
+                <li><a href="https://www.etsy.com/listing/62242107/santa-paws-custom-christmas-dog-sweater">Santa Paws Dog Sweater</a></li>
             </ul>
         </div>
         <div class="span6">
@@ -50,10 +58,22 @@ include 'includes/header.php';
                 <li><a href="http://code.flickr.net/2009/12/02/flipping-out/">General Approach</a></li>
                 <li><a href="https://github.com/etsy/feature">Etsy GitHub Project</a></li>
             </ul>
+            <h5>Framework Benchmarks</h5>
+            <ul>
+                <li><a href="http://systemsarchitect.net/performance-benchmark-of-popular-php-frameworks/">PHP Framework Comparison</a></li>
+                <li><a href="http://www.techempower.com/benchmarks/">Comparison of Many Web Frameworks</a></li>
+            </ul>
+            <h5>Making Changes at Etsy</h5>
+            <ul>
+                <li><a href="http://codeascraft.com/2010/05/20/quantum-of-deployment/">Deployinator</a></li>
+                <li><a href="http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/">Infrastructure Upgrades with Chef</a></li>
+            </ul>
             <h5>Other Links</h5>
             <ul>
                 <li><a href="http://codeascraft.com/2012/08/31/what-hardware-powers-etsy-com/">What Hardware Powers Etsy</a></li>
+                <li><a href="https://www.etsy.com/blog/news/2012/demystifying-site-outages/">Demystifying Site Outages</a></li>
                 <li><a href="https://github.com/etsy/mctop">mctop</a></li>
+                <li><a href="http://html9responsiveboilerstrapjs.com/">HTML9 Responsive Boilerstrap JS</a></li>
             </ul>
         </div>
     </div>
