@@ -1,6 +1,6 @@
 <?php
 
-$title = "Northeast PHP 2013 - Scaling PHP to 40 Million Uniques";
+$title = "Scaling PHP to 40 Million Uniques - Northeast PHP 2013";
 include 'includes/header.php';
 ?>
 

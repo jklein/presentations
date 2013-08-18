@@ -6,14 +6,14 @@ include 'includes/header.php';
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="" width="683" height="570"
-            frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-            style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
+        <iframe src="http://www.slideshare.net/slideshow/embed_code/25352441"
+            width="683" height="570" frameborder="0" marginwidth="0" marginheight="0"
+            scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
             allowfullscreen webkitallowfullscreen mozallowfullscreen>
         </iframe>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="#"
+                <a href="http://www.slideshare.net/jnklein/practical-responsive-web-design-northeast-php-2013"
                     title="Northeast PHP 2013 - Practical Responsive Web Design" target="_blank">
                     Northeast PHP 2013 - Practical Responsive Web Design
                 </a>
