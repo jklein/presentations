@@ -38,6 +38,11 @@ include 'includes/header.php';
                 <li><a href="http://www.webpagetest.org/forums/">Forums</a></li>
                 <li><a href="https://sites.google.com/a/webpagetest.org/docs/private-instances#TOC-EC2-Test-Agents">EC2 Test Agents</a></li>
             </ul>
+            <h5>Vagrant</h5>
+            <ul>
+                <li><a href="http://vagrantup.com">Vagrant Website</a></li>
+                <li><a href="https://gist.github.com/jklein/6992296">WebPagetest Vagrant File</a></li>
+            </ul>
         </div>
         <div class="span6">
             <h5>Etsy Tools</h5>
