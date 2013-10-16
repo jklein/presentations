@@ -6,21 +6,16 @@ include 'includes/header.php';
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="http://www.slideshare.net/jnklein/foo" width="683" height="570"
-            frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-            style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
-            allowfullscreen webkitallowfullscreen mozallowfullscreen>
-        </iframe>
+        <script async class="speakerdeck-embed" data-id="3809f550189d0131be6e0eef15d4ca60" data-ratio="1.74446337308348" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="#"
+                <a href="https://speakerdeck.com/jklein/diy-synthetic-private-webpagetest-magic"
                     title="DIY Synthetic: Private WebPagetest Magic" target="_blank">
                     Velocity New York 2013 - DIY Synthetic: Private WebPagetest Magic
                 </a>
             </strong> from
-            <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
+            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong>
         </div>
-    <!--<h4><a href="http://joind.in/talk/view/8595">Rate this talk!</a></h4>-->
     </div>
 
     <div class="resources row">
