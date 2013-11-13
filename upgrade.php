@@ -36,6 +36,7 @@ include 'includes/header.php';
             <h5>WebP</h5>
             <ul>
                 <li><a href="http://www.jonathanklein.net/2013/02/a-comprehensive-guide-to-webp.html">Comprehensive Guide</a></li>
+                <li><a href="http://people.mozilla.org/~josh/lossy_compressed_image_study_october_2013/">Latest Mozilla Study</a></li>
                 <li><a href="http://www.webpagetest.org/result/131105_H0_13GQ/">WebPagetest Before</a></li>
                 <li><a href="http://www.webpagetest.org/result/131105_SS_13K7/">WebPagetest After</a></li>
             </ul>
@@ -47,6 +48,7 @@ include 'includes/header.php';
                 <li><a href="https://developers.google.com/speed/spdy/">Google Documentation</a></li>
                 <li><a href="http://www.webpagetest.org/result/131105_SS_13K7/">WebPagetest Before</a></li>
                 <li><a href="http://www.webpagetest.org/result/131105_B1_13QT/">WebPagetest After</a></li>
+                <li><a href="http://chimera.labs.oreilly.com/books/1230000000545">High Performance Browser Networking</a></li>
             </ul>
 
             <h5>Prefetching</h5>
