@@ -6,7 +6,7 @@ include 'includes/header.php';
 
 <div class="container">
     <div style="text-align:center">
-        <!-- Script tag for Speakerdeck goes here-->
+        <script async class="speakerdeck-embed" data-id="a3c7808030130131897f72dc049c047a" data-ratio="1.74446337308348" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
                 <a href="#"
@@ -14,7 +14,8 @@ include 'includes/header.php';
                     Velocity London 2013 - Upgrading the Web: Driving Support for New Standards
                 </a>
             </strong> from
-            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong>
+            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong><br />
+            <strong><a href="http://velocityconf.com/velocityeu2013/public/schedule/detail/30311">Rate this talk!</a></strong>
         </div>
     </div>
 
