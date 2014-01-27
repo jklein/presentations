@@ -15,7 +15,6 @@ $left_links = array(
         'http://pecl.php.net/package/xhprof' => 'XHProf PECL Package',
         'https://github.com/facebook/xhprof' => 'XHProf on GitHub',
         'https://github.com/perftools/xhgui' => 'XHGui on GitHub',
-        'http://xhprof.jkle.in/' => 'Live Example',
     ),
 );
 
