@@ -7,7 +7,7 @@
           <li class="muted">·</li>
           <li><a href="https://twitter.com/jonathanklein">Twitter</a></li>
           <li class="muted">·</li>
-          <li><a href="https://github.com/jklein/">Github</a></li>
+          <li><a href="https://github.com/jklein/">GitHub</a></li>
         </ul>
       </div>
     </footer>

@@ -1,4 +1,23 @@
-<!DOCTYPE html>
+<?php
+
+function build_link_html($link_array) {
+    $html = '';
+
+    foreach ($link_array as $header => $links) {
+        $html .= '<h5>' . $header . '</h5>';
+        $html .= '<ul>';
+
+        foreach ($links as $url => $title) {
+            $html .= '<li><a href="' . $url . '">' . $title . '</a></li>';
+        }
+        $html .= '</ul>';
+    }
+
+    return $html;
+}
+
+
+?><!DOCTYPE html>
 <html lang="en">
 <head>
     <title><?=$title?></title>

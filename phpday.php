@@ -19,7 +19,7 @@ include 'includes/header.php';
             </strong> from
             <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
         </div>
-	<h4><a href="http://joind.in/talk/view/8644">Rate this talk!</a></h4>
+    <h4><a href="http://joind.in/talk/view/8644">Rate this talk!</a></h4>
     </div>
 
     <div class="resources row">
