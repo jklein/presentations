@@ -25,6 +25,7 @@ $right_links = array(
         'https://gist.github.com/jklein/8654137' => 'XHGui VagrantFile',
     ),
     'Other Links' => array(
+        'http://httpd.apache.org/docs/2.2/programs/ab.html' => 'ApacheBench',
         'http://web-performance.meetup.com/' => 'Web Performance Meetups',
         'http://www.etsy.com/careers' => 'Etsy Careers',
         'http://www.jonathanklein.net' => 'My Blog',
