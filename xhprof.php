@@ -32,12 +32,12 @@ $right_links = array(
     ),
 );
 
-$speakerdeck_url = '';
+$speakerdeck_url = 'https://speakerdeck.com/jklein/profiling-php-with-xhprof';
 ?>
 
 <div class="container">
     <div style="text-align:center">
-        <!-- Speaker deck talk here -->
+	<script async class="speakerdeck-embed" data-id="db9fbce0722f0131f7617efd68a60801" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
                 <a href="<?=$speakerdeck_url;?>" title="<?=$title;?>" target="_blank">
@@ -46,8 +46,8 @@ $speakerdeck_url = '';
             </strong> from
             <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong>
         </div>
+    	<h4><a href="http://joind.in/talk/view/10511">Rate this talk!</a></h4>
     </div>
-
     <div class="resources row">
         <div class="span12">
             <h2>Resources</h2>
