@@ -2,6 +2,8 @@
 
 $title = "HubSpot Tech Talk - DIY Synthetic: Private WebPagetest Magic";
 include 'includes/header.php';
+
+$speakerdeck_link = 'https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthetic';
 ?>
 
 <div class="container">
@@ -9,8 +11,7 @@ include 'includes/header.php';
         <script async class="speakerdeck-embed" data-id="7b94469044a70131af4b628e140beceb" data-ratio="1.74446337308348" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthetic"
-                    title="DIY Synthetic: Private WebPagetest Magic" target="_blank">
+                <a href="<?=$speakerdeck_link;?>" title="<?=$title;?>" target="_blank">
                     <?=$title;?>
                 </a>
             </strong> from

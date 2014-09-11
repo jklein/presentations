@@ -1,14 +1,14 @@
 <?php
 
-$title = "Velocity Santa Clara 2014 - Upgrading the Web: Driving Support for New Standards";
+$title = "Boston Web Performance Meetup Group - Upgrading the Web: Driving Support for New Standards";
 include 'includes/header.php';
 
-$speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards-1';
+$speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-boston-web-performance-meetup';
 ?>
 
 <div class="container">
     <div style="text-align:center">
-        <script async class="speakerdeck-embed" data-id="a5542ad0deb8013130091afbd954a68f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="e9fb44e0ee7f01312be742839f79c6f5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
                 <a href="<?=$speakerdeck_link;?>" title="<?=$title;?>" target="_blank">
@@ -16,7 +16,6 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-driving-su
                 </a>
             </strong> from
             <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong><br />
-            <h3><a href="http://velocityconf.com/velocity2014/public/schedule/detail/33809">Rate this talk!</a></h3>
         </div>
     </div>
 
