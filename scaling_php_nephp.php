@@ -2,23 +2,20 @@
 
 $title = "Scaling PHP to 40 Million Uniques - Northeast PHP 2013";
 include 'includes/header.php';
+
+$speakerdeck_link = 'https://speakerdeck.com/jklein/scaling-php-to-40-million-uniques';
 ?>
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="http://www.slideshare.net/slideshow/embed_code/25336613"
-            width="683" height="570" frameborder="0" marginwidth="0" marginheight="0"
-            scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
-            allowfullscreen webkitallowfullscreen mozallowfullscreen>
-        </iframe>
+        <script async class="speakerdeck-embed" data-id="b4aef6b02d2401312d7e2658b910d553" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="http://www.slideshare.net/jnklein/scaling-php-to-40-million-uniques"
-                    title="Northeast PHP 2013 - Scaling PHP to 40 Million Uniques" target="_blank">
-                    Northeast PHP 2013 - Scaling PHP to 40 Million Uniques
+                <a href="<?=$speakerdeck_link;?>" title="<?=$title;?>" target="_blank">
+                    <?=$title;?>
                 </a>
             </strong> from
-            <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
+            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong>
         </div>
     <h4><a href="http://joind.in/talk/view/8919">Rate this talk!</a></h4>
     </div>
