@@ -37,8 +37,6 @@ function build_link_html($link_array) {
       })();
     </script>
 
-    <div class="navbar navbar-static-top">
-      <div class="navbar-inner">
-        <span class="title">Jonathan Klein - <?=$title?></a>
-      </div>
+    <div class="page-header text-center">
+        <h3>Jonathan Klein - <?=$title?></h3>
     </div>

@@ -16,14 +16,6 @@
     display: inline;
     padding: 0 2px;
 }
-.navbar-static-top{
-    text-align: center;
-}
-.navbar-static-top .title {
-    display: block;
-    padding: 10px 20px 10px;
-    font-size: 20px;
-    font-weight: 200;
-    color: #777;
-    text-shadow: 0 1px 0 #fff;
+.page-header {
+    margin-top:20px;
 }
