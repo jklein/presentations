@@ -8,11 +8,7 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/practical-responsive-web-des
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="http://www.slideshare.net/slideshow/embed_code/20940383" width="683" height="570"
-            frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-            style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
-            allowfullscreen webkitallowfullscreen mozallowfullscreen>
-        </iframe>
+        <script async class="speakerdeck-embed" data-id="1df8a2a01cbf0132f325123486985575" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
                 <a href="<?=$speakerdeck_link;?>" title="<?=$title?>" target="_blank">
