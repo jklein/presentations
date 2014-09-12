@@ -38,5 +38,5 @@ function build_link_html($link_array) {
     </script>
 
     <div class="page-header text-center">
-        <h3>Jonathan Klein - <?=$title?></h3>
+        <h3><?=$title?></h3>
     </div>

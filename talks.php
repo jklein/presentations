@@ -5,6 +5,17 @@ include 'includes/header.php';
 ?>
 
 <div class="container">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h3 class="panel-title">Upcoming</h3>
+        </div>
+        <div class="list-group">
+            <a href="http://velocityconf.com/velocityeu2014/public/schedule/detail/36806" class="list-group-item">
+                <span class="badge">11/14/2014</span>Cognitive Biases in Engineering Organizations  <span class="label label-primary">Velocity Barcelona 2014</span>
+            </a>
+        </div>
+    </div>
+
     <div class="panel panel-info">
         <div class="panel-heading">
             <h3 class="panel-title">2014</h3>
