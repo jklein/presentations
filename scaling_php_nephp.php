@@ -21,11 +21,11 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/scaling-php-to-40-million-un
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>MySQL</h5>
             <ul>
                 <li><a href="http://codeascraft.com/2012/04/20/two-sides-for-salvation/">Master/Master Pairs</a></li>
@@ -49,7 +49,7 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/scaling-php-to-40-million-un
                 <li><a href="https://www.etsy.com/listing/62242107/santa-paws-custom-christmas-dog-sweater">Santa Paws Dog Sweater</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Feature Flags</h5>
             <ul>
                 <li><a href="http://code.flickr.net/2009/12/02/flipping-out/">General Approach</a></li>

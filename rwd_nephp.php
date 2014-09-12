@@ -2,33 +2,30 @@
 
 $title = "Northeast PHP 2013 - Practical Responsive Web Design";
 include 'includes/header.php';
+
+$speakerdeck_link = 'https://speakerdeck.com/jklein/practical-responsive-web-design';
 ?>
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="http://www.slideshare.net/slideshow/embed_code/25352441"
-            width="683" height="570" frameborder="0" marginwidth="0" marginheight="0"
-            scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
-            allowfullscreen webkitallowfullscreen mozallowfullscreen>
-        </iframe>
+        <script async class="speakerdeck-embed" data-id="0690b6702d250131ff12122461a0ee5c" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="http://www.slideshare.net/jnklein/practical-responsive-web-design-northeast-php-2013"
-                    title="Northeast PHP 2013 - Practical Responsive Web Design" target="_blank">
-                    Northeast PHP 2013 - Practical Responsive Web Design
+                <a href="<?=$speakerdeck_link;?>" title="<?=$title?>" target="_blank">
+                    <?=$title;?>
                 </a>
             </strong> from
-            <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
+            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong><br />
         </div>
     <h4><a href="http://joind.in/talk/view/8898">Rate this talk!</a></h4>
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Image Compression</h5>
             <ul>
                 <li><a href="http://www.smushit.com/ysmush.it/">SmushIt</a></li>
@@ -52,7 +49,7 @@ include 'includes/header.php';
 
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Responsive Images</h5>
             <ul>
                 <li><a href="http://blog.cloudfour.com/responsive-imgs/">Responsive Images Part 1</a></li>

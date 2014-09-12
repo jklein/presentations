@@ -2,31 +2,29 @@
 
 $title = "PHPDay 2013 - High Performance PHP";
 include 'includes/header.php';
+
+$speakerdeck_link = 'https://speakerdeck.com/jklein/high-performance-php';
 ?>
 
 <div class="container">
     <div style="text-align:center">
-        <iframe src="http://www.slideshare.net/slideshow/embed_code/20934134" width="683" height="570"
-            frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-            style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"
-            allowfullscreen webkitallowfullscreen mozallowfullscreen>
-        </iframe>
+        <script async class="speakerdeck-embed" data-id="f23d8c004e16013133f2221e5e1793ff" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="http://www.slideshare.net/jnklein/phpday-2013-high-performance-php"
-                    title="PHPDay 2013 - High Performance PHP" target="_blank">PHPDay 2013 - High Performance PHP
+                <a href="<?=$speakerdeck_link;?>" title="<?=$title?>" target="_blank">
+                    <?=$title;?>
                 </a>
             </strong> from
-            <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
+            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong><br />
         </div>
     <h4><a href="http://joind.in/talk/view/8644">Rate this talk!</a></h4>
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>The Value of Performance</h5>
             <ul>
                 <li><a href="http://www.phpied.com/the-performance-business-pitch/">The Performance Business Pitch</a></li>
@@ -53,7 +51,7 @@ include 'includes/header.php';
                 <li><a href="http://www.techempower.com/benchmarks/">Comparison of Many Web Frameworks</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Upgrading PHP</h5>
             <ul>
                 <li><a href="http://news.php.net/php.internals/36484">PHP 5.2 to 5.3 improvement</a></li>

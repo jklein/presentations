@@ -20,11 +20,11 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthe
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>WebPagetest</h5>
             <ul>
                 <li><a href="http://www.webpagetest.org/">Public Instance</a></li>
@@ -41,7 +41,7 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthe
                 <li><a href="https://gist.github.com/jklein/6992296">WebPagetest Vagrant File</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Tracking Performance</h5>
             <ul>
                 <li><a href="http://velocityconf.com/velocityny2013/public/schedule/detail/31342">Tracking Performance</a>

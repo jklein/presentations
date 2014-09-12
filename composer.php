@@ -21,11 +21,11 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/composer-from-beginner-to-ex
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Composer</h5>
             <ul>
                 <li><a href="https://getcomposer.org/">Homepage</a></li>
@@ -35,7 +35,7 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/composer-from-beginner-to-ex
                 <li><a href="https://getcomposer.org/doc/articles/handling-private-packages-with-satis.md">Private Packages with Satis</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Other Helpful Links</h5>
             <ul>
                 <li><a href="http://semver.org/">Semver</a></li>

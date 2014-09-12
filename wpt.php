@@ -19,11 +19,11 @@ include 'includes/header.php';
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>WebPagetest</h5>
             <ul>
                 <li><a href="http://www.webpagetest.org/">Public Instance</a></li>
@@ -39,7 +39,7 @@ include 'includes/header.php';
                 <li><a href="https://gist.github.com/jklein/6992296">WebPagetest Vagrant File</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Etsy Tools</h5>
             <ul>
                 <li><a href="https://github.com/etsy/wpt-script">wpt-script</a></li>

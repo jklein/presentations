@@ -20,11 +20,11 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-boston-web
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>HTTP Origin/Hop Hints</h5>
             <ul>
                 <li><a href="http://tools.ietf.org/html/draft-nottingham-http-browser-hints-05">Draft Spec</a></li>
@@ -43,7 +43,7 @@ $speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-boston-web
                 <li><a href="http://www.webpagetest.org/result/131105_SS_13K7/">WebPagetest After</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>SPDY/HTTP 2.0</h5>
             <ul>
                 <li><a href="http://en.wikipedia.org/wiki/SPDY">About SPDY</a></li>

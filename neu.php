@@ -19,11 +19,11 @@ include 'includes/header.php';
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>WebPagetest</h5>
             <ul>
                 <li><a href="http://www.webpagetest.org/">Public Instance</a></li>
@@ -38,7 +38,7 @@ include 'includes/header.php';
                 <li><a href="http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/">Beginners Guide to Caching Headers</a></li>
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Other Tools</h5>
             <ul>
                 <li><a href="http://www.smushit.com/ysmush.it/">Smush.it</a></li>

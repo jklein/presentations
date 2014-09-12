@@ -21,7 +21,7 @@ function build_link_html($link_array) {
 <html lang="en">
 <head>
     <title><?=$title?></title>
-    <link rel="stylesheet" type="text/css" href="/presentations/assets/css/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="/presentations/assets/css/presentations.css" />
 </head>
 <body>

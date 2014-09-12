@@ -2,6 +2,8 @@
 
 $title = "JSDay 2013 - Practical Responsive Web Design";
 include 'includes/header.php';
+
+$speakerdeck_link = 'https://speakerdeck.com/jklein/practical-responsive-web-design-jsday';
 ?>
 
 <div class="container">
@@ -13,22 +15,21 @@ include 'includes/header.php';
         </iframe>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="http://www.slideshare.net/jnklein/jsday-2013-practical-responsive-web-design"
-                    title="JSDay 2013 - Practical Responsive Web Design" target="_blank">
-                    JSDay 2013 - Practical Responsive Web Design
+                <a href="<?=$speakerdeck_link;?>" title="<?=$title?>" target="_blank">
+                    <?=$title;?>
                 </a>
             </strong> from
-            <strong><a href="http://www.slideshare.net/jnklein" target="_blank">Jonathan Klein</a></strong>
+            <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong><br />
         </div>
-	<h4><a href="http://joind.in/talk/view/8595">Rate this talk!</a></h4>
+    <h2><a href="http://joind.in/talk/view/8595">Rate this talk!</a></h2>
     </div>
 
     <div class="resources row">
-        <div class="span12">
+        <div class="col-md-12">
             <h2>Resources</h2>
         </div>
 
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Image Compression</h5>
             <ul>
                 <li><a href="http://www.smushit.com/ysmush.it/">SmushIt</a></li>
@@ -47,7 +48,7 @@ include 'includes/header.php';
 
             </ul>
         </div>
-        <div class="span6">
+        <div class="col-md-6">
             <h5>Responsive Images</h5>
             <ul>
                 <li><a href="http://blog.cloudfour.com/responsive-imgs/">Responsive Images Part 1</a></li>
