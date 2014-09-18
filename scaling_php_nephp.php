@@ -4,10 +4,15 @@ $title = "Scaling PHP to 40 Million Uniques - Northeast PHP 2013";
 include 'includes/header.php';
 
 $speakerdeck_link = 'https://speakerdeck.com/jklein/scaling-php-to-40-million-uniques';
+$video_link = 'https://www.youtube.com/watch?v=PEdgo7mcE68';
+
 ?>
 
 <div class="container">
     <div style="text-align:center">
+        <div class="col-md-12">
+            <h4><a href="<?=$video_link;?>">Watch the Video Here</a></h4>
+        </div>
         <script async class="speakerdeck-embed" data-id="b4aef6b02d2401312d7e2658b910d553" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>

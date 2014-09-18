@@ -1,13 +1,17 @@
 <?php
 
-$title = "Northeast PHP 2013 - Practical Responsive Web Design";
+$title = "Practical Responsive Web Design - Northeast PHP 2013";
 include 'includes/header.php';
 
 $speakerdeck_link = 'https://speakerdeck.com/jklein/practical-responsive-web-design';
+$video_link = 'https://www.youtube.com/watch?v=S2-pYh2jpjM';
 ?>
 
 <div class="container">
     <div style="text-align:center">
+        <div class="col-md-12">
+            <h4><a href="<?=$video_link;?>">Watch the Video Here</a></h4>
+        </div>
         <script async class="speakerdeck-embed" data-id="0690b6702d250131ff12122461a0ee5c" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>

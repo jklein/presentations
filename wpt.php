@@ -2,16 +2,21 @@
 
 $title = "Velocity New York 2013 - DIY Synthetic: Private WebPagetest Magic";
 include 'includes/header.php';
+
+$speakerdeck_link = 'https://speakerdeck.com/jklein/diy-synthetic-private-webpagetest-magic';
+$video_link = 'https://www.youtube.com/watch?v=dL3Sls_MwXo';
 ?>
 
 <div class="container">
     <div style="text-align:center">
+        <div class="col-md-12">
+            <h4><a href="<?=$video_link;?>">Watch the Video Here</a></h4>
+        </div>
         <script async class="speakerdeck-embed" data-id="3809f550189d0131be6e0eef15d4ca60" data-ratio="1.74446337308348" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
-                <a href="https://speakerdeck.com/jklein/diy-synthetic-private-webpagetest-magic"
-                    title="DIY Synthetic: Private WebPagetest Magic" target="_blank">
-                    Velocity New York 2013 - DIY Synthetic: Private WebPagetest Magic
+                <a href="<?=$speakerdeck_link;?>" title="<?=$title;?>" target="_blank">
+                    <?=$title;?>
                 </a>
             </strong> from
             <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong>

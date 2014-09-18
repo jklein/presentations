@@ -4,10 +4,14 @@ $title = "Boston Web Performance Meetup Group - Upgrading the Web: Driving Suppo
 include 'includes/header.php';
 
 $speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-boston-web-performance-meetup';
+$video_link = 'https://www.youtube.com/watch?v=hq3HAPECIm8';
 ?>
 
 <div class="container">
     <div style="text-align:center">
+        <div class="col-md-12">
+            <h4><a href="<?=$video_link;?>">Watch the Video Here</a></h4>
+        </div>
         <script async class="speakerdeck-embed" data-id="e9fb44e0ee7f01312be742839f79c6f5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>

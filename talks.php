@@ -43,6 +43,15 @@ include 'includes/header.php';
             <a href="/jsday" class="list-group-item"><span class="badge">5/16/13</span>Practical Responsive Web Design  <span class="label label-primary">JSDay 2013</span></a>
         </div>
     </div>
+
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h3 class="panel-title">2012</h3>
+        </div>
+        <div class="list-group">
+            <a href="https://joind.in/talk/view/6811" class="list-group-item"><span class="badge">8/11/12</span>High Performance PHP <span class="label label-primary">Northeast PHP 2012</span></a>
+        </div>
+    </div>
 </div>
 <?php
 

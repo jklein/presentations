@@ -4,10 +4,14 @@ $title = "Velocity Santa Clara 2014 - Upgrading the Web: Driving Support for New
 include 'includes/header.php';
 
 $speakerdeck_link = 'https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards-1';
+$video_link = 'https://www.youtube.com/watch?v=r0jlYH3-IEg';
 ?>
 
 <div class="container">
     <div style="text-align:center">
+        <div class="col-md-12">
+            <h4><a href="<?=$video_link;?>">Watch the Video Here</a></h4>
+        </div>
         <script async class="speakerdeck-embed" data-id="a5542ad0deb8013130091afbd954a68f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
         <div style="margin-bottom:5px">
             <strong>
