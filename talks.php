@@ -37,6 +37,7 @@ include 'includes/header.php';
             <a href="/hubspot" class="list-group-item"><span class="badge">12/11/13</span>DIY Synthetic: Private WebPagetest Magic  <span class="label label-primary">HubSpot Tech Talk</span></a>
             <a href="/upgrade" class="list-group-item"><span class="badge">11/15/13</span>Upgrading the Web: Driving Support for New Standards  <span class="label label-primary">Velocity London 2013</span></a>
             <a href="/wpt" class="list-group-item"><span class="badge">10/16/13</span>DIY Synthetic: Private WebPagetest Magic  <span class="label label-primary">Velocity New York 2013</span></a>
+            <a href="https://edgeconf.com/2013-nyc?v=DjcSbvBWSb0" class="list-group-item"><span class="badge">9/23/13</span>Rendering Performance Panel <span class="label label-primary">Edge Conference New York 2013</span></a>
             <a href="/nephp" class="list-group-item"><span class="badge">8/18/13</span>Scaling PHP to 40 Million Uniques  <span class="label label-primary">Northeast PHP 2013</span></a>
             <a href="/rwd" class="list-group-item"><span class="badge">8/17/13</span>Practical Responsive Web Design  <span class="label label-primary">Northeast PHP 2013</span></a>
             <a href="/phpday" class="list-group-item"><span class="badge">5/18/2013</span>High Performance PHP  <span class="label label-primary">PHPDay 2013</span></a>
