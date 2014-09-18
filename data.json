@@ -1,0 +1,143 @@
+{
+
+    "Upcoming": {
+        "Cognitive Biases in Engineering Organizations": {
+            "event": "Velocity Barcelona 2014",
+            "date": "2014-11-14",
+            "page_link": "http://velocityconf.com/velocityeu2014/public/schedule/detail/36806",
+            "rate_link": "",
+            "video_link": "",
+            "slides_link": ""
+        }
+    },
+
+    "2014": {
+        "Composer: From Beginner to Expert": {
+            "event": "Northeast PHP 2014",
+            "date": "2014-9-7",
+            "page_link": "/composer",
+            "rate_link": "http://joind.in/talk/view/11464",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/composer-from-beginner-to-expert"
+        },
+        "Upgrading the Web: Driving Support for New Standards ": {
+            "event": "Boston Web Performance Meetup Group",
+            "date": "2014-7-15",
+            "page_link": "/boswebperf",
+            "rate_link": "http://www.meetup.com/Web-Performance-Boston/events/192817112/",
+            "video_link": "https://www.youtube.com/watch?v=hq3HAPECIm8",
+            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-boston-web-performance-meetup"
+        },
+        "Upgrading the Web: Driving Support for New Standards": {
+            "event": "Velocity Santa Clara 2014",
+            "date": "2014-6-25",
+            "page_link": "/future",
+            "rate_link": "http://velocityconf.com/velocity2014/public/schedule/detail/33809",
+            "video_link": "https://www.youtube.com/watch?v=r0jlYH3-IEg",
+            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards-1"
+        },
+        "Web Performance 101": {
+            "event": "Northeastern Tech Talk",
+            "date": "2014-6-17",
+            "page_link": "/neu",
+            "rate_link": "",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/northeastern-lunch-and-learn"
+        },
+        "Profiling PHP with XHProf": {
+            "event": "SunshinePHP 2014",
+            "date": "2014-2-7",
+            "page_link": "/xhprof",
+            "rate_link": "http://joind.in/talk/view/10511",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/profiling-php-with-xhprof"
+        }
+    },
+
+    "2013": {
+        "DIY Synthetic: Private WebPagetest Magic ": {
+            "event": "HubSpot Tech Talk",
+            "date": "2013-12-11",
+            "page_link": "/hubspot",
+            "rate_link": "",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthetic"
+        },
+        "Upgrading the Web: Driving Support for New Standards": {
+            "event": "Velocity London 2013",
+            "date": "2013-11-15",
+            "page_link": "/upgrade",
+            "rate_link": "http://velocityconf.com/velocityeu2013/public/schedule/detail/30311",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards"
+        },
+        "DIY Synthetic: Private WebPagetest Magic": {
+            "event": "Velocity New York 2013",
+            "date": "2013-10-16",
+            "page_link": "/wpt",
+            "rate_link": "http://velocityconf.com/velocityny2013/public/schedule/detail/30112",
+            "video_link": "https://www.youtube.com/watch?v=dL3Sls_MwXo",
+            "slides_link": "https://speakerdeck.com/jklein/diy-synthetic-private-webpagetest-magic"
+        },
+        "Performance and User Experience": {
+            "event": "UX Fest 2013",
+            "date": "2013-10-01",
+            "page_link": "https://speakerdeck.com/jklein/performance-and-user-experience",
+            "rate_link": "",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/performance-and-user-experience"
+        },
+        "Rendering Performance Panel": {
+            "event": "Edge Conference New York 2013",
+            "date": "2013-9-23",
+            "page_link": "https://edgeconf.com/2013-nyc?v=DjcSbvBWSb0",
+            "rate_link": "",
+            "video_link": "https://www.youtube.com/watch?v=DjcSbvBWSb0",
+            "slides_link": "https://speakerdeck.com/jklein/edge-conf-rendering-performance-panel-opening-talk"
+        },
+        "Scaling PHP to 40 Million Uniques": {
+            "event": "Northeast PHP 2013",
+            "date": "2013-8-18",
+            "page_link": "/nephp",
+            "rate_link": "http://joind.in/talk/view/8919",
+            "video_link": "https://www.youtube.com/watch?v=PEdgo7mcE68",
+            "slides_link": "https://speakerdeck.com/jklein/scaling-php-to-40-million-uniques"
+        },
+        "Practical Responsive Web Design": {
+            "event": "Northeast PHP 2013",
+            "date": "2013-8-17",
+            "page_link": "/rwd",
+            "rate_link": "http://joind.in/talk/view/8898",
+            "video_link": "https://www.youtube.com/watch?v=S2-pYh2jpjM",
+            "slides_link": "https://speakerdeck.com/jklein/practical-responsive-web-design"
+        },
+        "High Performance PHP": {
+            "event": "PHPDay 2013",
+            "date": "2013-5-18",
+            "page_link": "/phpday",
+            "rate_link": "http://joind.in/talk/view/8644",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/high-performance-php"
+        },
+        "Practical Responsive Web Design ": {
+            "event": "JSDay 2013",
+            "date": "2013-5-16",
+            "page_link": "/jsday",
+            "rate_link": "http://joind.in/talk/view/8595",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/practical-responsive-web-design-jsday"
+        }
+    },
+
+    "2012": {
+        "High Performance PHP": {
+            "event": "Northeast PHP 2012",
+            "date": "2012-8-11",
+            "page_link": "https://joind.in/talk/view/6811",
+            "rate_link": "",
+            "video_link": "",
+            "slides_link": "http://www.slideshare.net/jnklein/northeast-php-high-performance-php"
+        }
+    }
+}
+
