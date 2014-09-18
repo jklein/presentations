@@ -18,7 +18,29 @@
             "page_link": "/composer",
             "rate_link": "http://joind.in/talk/view/11464",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/composer-from-beginner-to-expert"
+            "slides_link": "https://speakerdeck.com/jklein/composer-from-beginner-to-expert",
+            "speakerdeck_id": "a08a7c9018bc013204767e04cf6bc9f6",
+            "speakerdeck_ratio": "1.77777777777778",
+            "links": {
+                "left": {
+                    "Composer": {
+                        "https://getcomposer.org/": "Homepage",
+                        "https://getcomposer.org/doc/00-intro.md#installation-nix": "Installation",
+                        "https://getcomposer.org/doc/03-cli.md": "List of Commands",
+                        "https://getcomposer.org/doc/articles/scripts.md": "Scripts",
+                        "https://getcomposer.org/doc/articles/handling-private-packages-with-satis.md": "Private Packages with Satis"
+                    }
+                },
+                "right": {
+                    "Other Helpful Links": {
+                        "http://semver.org/": "Semver",
+                        "https://packagist.org/": "Packagist",
+                        "https://packagist.org/explore/popular": "Popular Packages on Packagist",
+                        "http://www.php-fig.org/": "PHP-FIG",
+                        "http://www.php-fig.org/psr/psr-4/": "PSR-4"
+                    }
+                }
+            }
         },
         "Upgrading the Web: Driving Support for New Standards ": {
             "event": "Boston Web Performance Meetup Group",
@@ -26,7 +48,44 @@
             "page_link": "/boswebperf",
             "rate_link": "http://www.meetup.com/Web-Performance-Boston/events/192817112/",
             "video_link": "https://www.youtube.com/watch?v=hq3HAPECIm8",
-            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-boston-web-performance-meetup"
+            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-boston-web-performance-meetup",
+            "speakerdeck_id": "e9fb44e0ee7f01312be742839f79c6f5",
+            "speakerdeck_ratio": "1.77777777777778",
+            "links": {
+                "left": {
+                    "HTTP Origin/Hop Hints": {
+                        "http://tools.ietf.org/html/draft-nottingham-http-browser-hints-05": "Draft Spec"
+                    },
+                    "Client Hints": {
+                        "https://github.com/igrigorik/http-client-hints/blob/master/draft-grigorik-http-client-hints-01.txt": "Draft Spec",
+                        "http://www.igvita.com/2013/08/29/automating-dpr-switching-with-client-hints/": "Article About Implementation"
+                    },
+                    "WebP": {
+                        "https://developers.google.com/speed/webp/": "Google Documentation",
+                        "http://www.jonathanklein.net/2013/02/a-comprehensive-guide-to-webp.html": "Comprehensive Guide",
+                        "http://people.mozilla.org/~josh/lossy_compressed_image_study_october_2013/": "Latest Mozilla Study",
+                        "http://www.webpagetest.org/result/131105_H0_13GQ/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_SS_13K7/": "WebPagetest After"
+                    }
+                },
+                "right": {
+                    "SPDY/HTTP 2.0": {
+                        "http://en.wikipedia.org/wiki/SPDY": "About SPDY",
+                        "http://tools.ietf.org/html/draft-ietf-httpbis-http2-12": "HTTP 2.0 Draft Spec",
+                        "http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-07": "HPACK",
+                        "https://developers.google.com/speed/spdy/": "Google Documentation",
+                        "http://www.webpagetest.org/result/131105_SS_13K7/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_B1_13QT/": "WebPagetest After",
+                        "https://istlsfastyet.com/": "Is TLS Fast Yet",
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                    },
+                    "Prefetching": {
+                        "http://www.stevesouders.com/blog/2013/11/07/prebrowsing/": "Steve Souders on \"Prebrowsing\"",
+                        "http://www.webpagetest.org/result/131105_8Z_14X3/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_8V_15EW/": "WebPagetest After"
+                    }
+                }
+            }
         },
         "Upgrading the Web: Driving Support for New Standards": {
             "event": "Velocity Santa Clara 2014",
