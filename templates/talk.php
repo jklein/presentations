@@ -1,6 +1,6 @@
 <?php
 
-include 'includes/header.php';
+include 'modules/header.php';
 ?>
 
 <div class="container">
@@ -51,4 +51,4 @@ include 'includes/header.php';
 
 
 <?php
-include 'includes/footer.php';
+include 'modules/footer.php';

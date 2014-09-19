@@ -1,6 +1,6 @@
 <?php
 
-include 'includes/header.php';
+include 'modules/header.php';
 
 echo '<div class="container">';
 
@@ -34,4 +34,4 @@ if (empty($talks_data)) {
 
 echo '</div>';
 
-include 'includes/footer.php';
+include 'modules/footer.php';
