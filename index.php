@@ -9,7 +9,7 @@ $view->setTemplatesDirectory(__DIR__ . '/templates');
 
 $app->talks_data = json_decode(file_get_contents('data.json'), true);
 
-$app->get('/', function () use ($app) {
+$app->get('/talks', function () use ($app) {
     $template_data = [
         'title' => 'All Talks',
         'talks_data' => $app->talks_data,

@@ -93,7 +93,44 @@
             "page_link": "/future",
             "rate_link": "http://velocityconf.com/velocity2014/public/schedule/detail/33809",
             "video_link": "https://www.youtube.com/watch?v=r0jlYH3-IEg",
-            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards-1"
+            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards-1",
+            "speakerdeck_id": "a5542ad0deb8013130091afbd954a68f",
+            "speakerdeck_ratio": "1.77777777777778",
+            "links": {
+                "left": {
+                    "HTTP Origin/Hop Hints": {
+                        "http://tools.ietf.org/html/draft-nottingham-http-browser-hints-05": "Draft Spec"
+                    },
+                    "Client Hints": {
+                        "https://github.com/igrigorik/http-client-hints/blob/master/draft-grigorik-http-client-hints-01.txt": "Draft Spec",
+                        "http://www.igvita.com/2013/08/29/automating-dpr-switching-with-client-hints/": "Article About Implementation"
+                    },
+                    "WebP": {
+                        "https://developers.google.com/speed/webp/": "Google Documentation",
+                        "http://www.jonathanklein.net/2013/02/a-comprehensive-guide-to-webp.html": "Comprehensive Guide",
+                        "http://people.mozilla.org/~josh/lossy_compressed_image_study_october_2013/": "Latest Mozilla Study",
+                        "http://www.webpagetest.org/result/131105_H0_13GQ/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_SS_13K7/": "WebPagetest After"
+                    }
+                },
+                "right": {
+                    "SPDY/HTTP 2.0": {
+                        "http://en.wikipedia.org/wiki/SPDY": "About SPDY",
+                        "http://tools.ietf.org/html/draft-ietf-httpbis-http2-12": "HTTP 2.0 Draft Spec",
+                        "http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-07": "HPACK",
+                        "https://developers.google.com/speed/spdy/": "Google Documentation",
+                        "http://www.webpagetest.org/result/131105_SS_13K7/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_B1_13QT/": "WebPagetest After",
+                        "https://istlsfastyet.com/": "Is TLS Fast Yet",
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                    },
+                    "Prefetching": {
+                        "http://www.stevesouders.com/blog/2013/11/07/prebrowsing/": "Steve Souders on \"Prebrowsing\"",
+                        "http://www.webpagetest.org/result/131105_8Z_14X3/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_8V_15EW/": "WebPagetest After"
+                    }
+                }
+            }
         },
         "Web Performance 101": {
             "event": "Northeastern Tech Talk",
@@ -101,7 +138,37 @@
             "page_link": "/neu",
             "rate_link": "",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/northeastern-lunch-and-learn"
+            "slides_link": "https://speakerdeck.com/jklein/northeastern-lunch-and-learn",
+            "speakerdeck_id": "c65b9630d9170131a77866c3ed3c974d",
+            "speakerdeck_ratio": "1.77777777777778",
+            "links": {
+                "left": {
+                    "WebPagetest": {
+                        "http://www.webpagetest.org/": "Public Instance",
+                        "https://github.com/WPO-Foundation/webpagetest": "GitHub",
+                        "http://www.webpagetest.org/forums/": "Forums"
+                    },
+                    "Server Configuration Changes": {
+                        "http://httpd.apache.org/docs/2.2/mod/mod_deflate.html": "Turning on gzip in Apache",
+                        "http://www.feedthebot.com/pagespeed/keep-alive.html": "Enabling KeepAlive",
+                        "http://www.askapache.com/htaccess/apache-speed-cache-control.html": "Turning on Caching Headers in Apache",
+                        "http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/": "Beginners Guide to Caching Headers"
+                    }
+                },
+                "right": {
+                    "Other Tools": {
+                        "http://www.smushit.com/ysmush.it/": "Smush.it",
+                        "https://github.com/mikebrittain/Wesley": "Wesley (command line image optimization)",
+                        "http://cssminifier.com/": "cssminifier.com",
+                        "https://github.com/mishoo/UglifyJS2": "UglifyJS"
+                    },
+                    "Misc": {
+                        "http://www.phpied.com/the-performance-business-pitch/": "Performance Business Pitch",
+                        "http://httparchive.org/": "HTTPArchive",
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                    }
+                }
+            }
         },
         "Profiling PHP with XHProf": {
             "event": "SunshinePHP 2014",
@@ -109,7 +176,38 @@
             "page_link": "/xhprof",
             "rate_link": "http://joind.in/talk/view/10511",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/profiling-php-with-xhprof"
+            "slides_link": "https://speakerdeck.com/jklein/profiling-php-with-xhprof",
+            "speakerdeck_id": "db9fbce0722f0131f7617efd68a60801",
+            "speakerdeck_ratio": "1.2994923857868",
+            "links": {
+                "left": {
+                    "Why Speed Matters": {
+                        "http://www.phpied.com/the-performance-business-pitch/": "Web Performance Business Pitch",
+                        "http://torbit.com/blog/2012/09/19/some-interesting-performance-statistics/": "Bounce Rate vs. Performance",
+                        "http://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/": "The Performance Golden Rule",
+                        "http://www.nngroup.com/articles/response-times-3-important-limits/": "Response Time Limits"
+                    },
+                    "XHProf / XHGui": {
+                        "http://techportal.inviqa.com/2013/10/01/profiling-php-applications-with-xhgui/": "Installation and Usage",
+                        "http://pecl.php.net/package/xhprof": "XHProf PECL Package",
+                        "https://github.com/facebook/xhprof": "XHProf on GitHub",
+                        "https://github.com/perftools/xhgui": "XHGui on GitHub"
+                    }
+                },
+                "right": {
+                    "Vagrant": {
+                        "https://www.virtualbox.org/": "VirtualBox (required for Vagrant)",
+                        "http://vagrantup.com": "Vagrant",
+                        "https://gist.github.com/jklein/8654137": "XHGui VagrantFile"
+                    },
+                    "Other Links": {
+                        "http://httpd.apache.org/docs/2.2/programs/ab.html": "ApacheBench",
+                        "http://web-performance.meetup.com/": "Web Performance Meetups",
+                        "http://www.etsy.com/careers": "Etsy Careers",
+                        "http://www.jonathanklein.net": "My Blog"
+                    }
+                }
+            }
         }
     },
 
@@ -120,7 +218,44 @@
             "page_link": "/hubspot",
             "rate_link": "",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthetic"
+            "slides_link": "https://speakerdeck.com/jklein/hubspot-tech-talk-diy-synthetic",
+            "speakerdeck_id": "7b94469044a70131af4b628e140beceb",
+            "speakerdeck_ratio": "1.77777777777778",
+            "links": {
+                "left": {
+                    "WebPagetest": {
+                        "http://www.webpagetest.org/": "Public Instance",
+                        "https://github.com/WPO-Foundation/webpagetest": "GitHub",
+                        "https://sites.google.com/a/webpagetest.org/docs/": "Docs",
+                        "https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics": "Metrics Monitored",
+                        "http://www.webpagetest.org/forums/": "Forums",
+                        "https://sites.google.com/a/webpagetest.org/docs/private-instances#TOC-EC2-Test-Agents": "EC2 Test Agents",
+                        "https://sites.google.com/a/webpagetest.org/docs/system-design/webpagetest-relay": "WebPagetest Relay"
+                    },
+                    "Vagrant": {
+                        "http://vagrantup.com": "Vagrant Website",
+                        "https://gist.github.com/jklein/6992296": "WebPagetest Vagrant File"
+                    }
+                },
+                "right": {
+                    "Tracking Performance": {
+                        "http://velocityconf.com/velocityny2013/public/schedule/detail/31342": "Tracking Performance",
+                        "http://www.slideshare.net/patrickmeenan/tracking-performance-velocity-2013": "-- Slides",
+                        "http://www.youtube.com/watch?v=BAWpwmln6y4": "-- Video Part 1",
+                        "http://www.youtube.com/watch?v=lB_MXKGCizM": "-- Video Part 2",
+                        "http://www.slideshare.net/jfox85/velocity-2013-rum-vs-synthetic": "RUM vs. Synthetic"
+                    },
+                    "Etsy Tools": {
+                        "https://github.com/etsy/wpt-script": "wpt-script",
+                        "https://github.com/etsy/statsd": "StatsD",
+                        "https://github.com/etsy/dashboard": "Etsy Dashboards"
+                    },
+                    "Other Tools": {
+                        "https://github.com/marcelduran/webpagetest-api": "webpagetest-api",
+                        "http://www.catchpoint.com/": "Catchpoint"
+                    }
+                }
+            }
         },
         "Upgrading the Web: Driving Support for New Standards": {
             "event": "Velocity London 2013",
@@ -128,7 +263,44 @@
             "page_link": "/upgrade",
             "rate_link": "http://velocityconf.com/velocityeu2013/public/schedule/detail/30311",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards"
+            "slides_link": "https://speakerdeck.com/jklein/upgrading-the-web-driving-support-for-new-standards",
+            "speakerdeck_id": "a3c7808030130131897f72dc049c047a",
+            "speakerdeck_ratio": "1.74446337308348",
+            "links": {
+                "left": {
+                    "HTTP Origin/Hop Hints": {
+                        "http://tools.ietf.org/html/draft-nottingham-http-browser-hints-05": "Draft Spec"
+                    },
+                    "Client Hints": {
+                        "https://github.com/igrigorik/http-client-hints/blob/master/draft-grigorik-http-client-hints-01.txt": "Draft Spec",
+                        "http://www.igvita.com/2013/08/29/automating-dpr-switching-with-client-hints/": "Article About Implementation"
+                    },
+                    "WebP": {
+                        "https://developers.google.com/speed/webp/": "Google Documentation",
+                        "http://www.jonathanklein.net/2013/02/a-comprehensive-guide-to-webp.html": "Comprehensive Guide",
+                        "http://people.mozilla.org/~josh/lossy_compressed_image_study_october_2013/": "Latest Mozilla Study",
+                        "http://www.webpagetest.org/result/131105_H0_13GQ/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_SS_13K7/": "WebPagetest After"
+                    }
+                },
+                "right": {
+                    "SPDY/HTTP 2.0": {
+                        "http://en.wikipedia.org/wiki/SPDY": "About SPDY",
+                        "http://tools.ietf.org/html/draft-ietf-httpbis-http2-12": "HTTP 2.0 Draft Spec",
+                        "http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-07": "HPACK",
+                        "https://developers.google.com/speed/spdy/": "Google Documentation",
+                        "http://www.webpagetest.org/result/131105_SS_13K7/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_B1_13QT/": "WebPagetest After",
+                        "https://istlsfastyet.com/": "Is TLS Fast Yet",
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                    },
+                    "Prefetching": {
+                        "http://www.stevesouders.com/blog/2013/11/07/prebrowsing/": "Steve Souders on \"Prebrowsing\"",
+                        "http://www.webpagetest.org/result/131105_8Z_14X3/": "WebPagetest Before",
+                        "http://www.webpagetest.org/result/131105_8V_15EW/": "WebPagetest After"
+                    }
+                }
+            }
         },
         "DIY Synthetic: Private WebPagetest Magic": {
             "event": "Velocity New York 2013",
@@ -136,7 +308,44 @@
             "page_link": "/wpt",
             "rate_link": "http://velocityconf.com/velocityny2013/public/schedule/detail/30112",
             "video_link": "https://www.youtube.com/watch?v=dL3Sls_MwXo",
-            "slides_link": "https://speakerdeck.com/jklein/diy-synthetic-private-webpagetest-magic"
+            "slides_link": "https://speakerdeck.com/jklein/diy-synthetic-private-webpagetest-magic",
+            "speakerdeck_id": "3809f550189d0131be6e0eef15d4ca60",
+            "speakerdeck_ratio": "1.74446337308348",
+            "links": {
+                "left": {
+                    "WebPagetest": {
+                        "http://www.webpagetest.org/": "Public Instance",
+                        "https://github.com/WPO-Foundation/webpagetest": "GitHub",
+                        "https://sites.google.com/a/webpagetest.org/docs/": "Docs",
+                        "https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics": "Metrics Monitored",
+                        "http://www.webpagetest.org/forums/": "Forums",
+                        "https://sites.google.com/a/webpagetest.org/docs/private-instances#TOC-EC2-Test-Agents": "EC2 Test Agents",
+                        "https://sites.google.com/a/webpagetest.org/docs/system-design/webpagetest-relay": "WebPagetest Relay"
+                    },
+                    "Vagrant": {
+                        "http://vagrantup.com": "Vagrant Website",
+                        "https://gist.github.com/jklein/6992296": "WebPagetest Vagrant File"
+                    }
+                },
+                "right": {
+                    "Tracking Performance": {
+                        "http://velocityconf.com/velocityny2013/public/schedule/detail/31342": "Tracking Performance",
+                        "http://www.slideshare.net/patrickmeenan/tracking-performance-velocity-2013": "-- Slides",
+                        "http://www.youtube.com/watch?v=BAWpwmln6y4": "-- Video Part 1",
+                        "http://www.youtube.com/watch?v=lB_MXKGCizM": "-- Video Part 2",
+                        "http://www.slideshare.net/jfox85/velocity-2013-rum-vs-synthetic": "RUM vs. Synthetic"
+                    },
+                    "Etsy Tools": {
+                        "https://github.com/etsy/wpt-script": "wpt-script",
+                        "https://github.com/etsy/statsd": "StatsD",
+                        "https://github.com/etsy/dashboard": "Etsy Dashboards"
+                    },
+                    "Other Tools": {
+                        "https://github.com/marcelduran/webpagetest-api": "webpagetest-api",
+                        "http://www.catchpoint.com/": "Catchpoint"
+                    }
+                }
+            }
         },
         "Performance and User Experience": {
             "event": "UX Fest 2013",
@@ -160,7 +369,51 @@
             "page_link": "/nephp",
             "rate_link": "http://joind.in/talk/view/8919",
             "video_link": "https://www.youtube.com/watch?v=PEdgo7mcE68",
-            "slides_link": "https://speakerdeck.com/jklein/scaling-php-to-40-million-uniques"
+            "slides_link": "https://speakerdeck.com/jklein/scaling-php-to-40-million-uniques",
+            "speakerdeck_id": "b4aef6b02d2401312d7e2658b910d553",
+            "speakerdeck_ratio": "1.2994923857868",
+            "links": {
+                "left": {
+                    "MySQL": {
+                        "http://codeascraft.com/2012/04/20/two-sides-for-salvation/": "Master/Master Pairs",
+                        "http://codeascraft.com/2013/01/11/schemanator-love-child-of-deployinator-and-schema-changes/": "Making Schema Changes with Schemanator"
+                    },
+                    "PHP Optimization": {
+                        "http://www.slideshare.net/jnklein/northeast-php-high-performance-php": "My Talk From NEPHP 2012"
+                    },
+                    "Atomic Deploys": {
+                        "http://codeascraft.com/2013/07/01/atomic-deploys-at-etsy/": "Blog Post",
+                        "https://github.com/etsy/mod_realdoc": "mod_realdoc",
+                        "https://github.com/etsy/incpath": "incpath"
+                    },
+                    "Etsy Listings": {
+                        "https://www.etsy.com/listing/61131989/santa-costume-holiday-cape-and-santa-hat": "Santa Cape and Hat",
+                        "https://www.etsy.com/listing/106740592/small-pet-santa-costume-pet-santa-suit": "Small Pet Santa Costume",
+                        "https://www.etsy.com/listing/152423714/santa-cat-dog-hat-costume-the-santa": "Cat and Dog Costumes",
+                        "https://www.etsy.com/listing/62242107/santa-paws-custom-christmas-dog-sweater": "Santa Paws Dog Sweater"
+                    }
+                },
+                "right": {
+                    "Feature Flags": {
+                        "http://code.flickr.net/2009/12/02/flipping-out/": "General Approach",
+                        "https://github.com/etsy/feature": "Etsy GitHub Project"
+                    },
+                    "Framework Benchmarks": {
+                        "http://systemsarchitect.net/performance-benchmark-of-popular-php-frameworks/": "PHP Framework Comparison",
+                        "http://www.techempower.com/benchmarks/": "Comparison of Many Web Frameworks"
+                    },
+                    "Making Changes at Etsy": {
+                        "http://codeascraft.com/2010/05/20/quantum-of-deployment/": "Deployinator",
+                        "http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/": "Infrastructure Upgrades with Chef"
+                    },
+                    "Other Links": {
+                        "http://codeascraft.com/2012/08/31/what-hardware-powers-etsy-com/": "What Hardware Powers Etsy",
+                        "https://www.etsy.com/blog/news/2012/demystifying-site-outages/": "Demystifying Site Outages",
+                        "https://github.com/etsy/mctop": "mctop",
+                        "http://html9responsiveboilerstrapjs.com/": "HTML9 Responsive Boilerstrap JS"
+                    }
+                }
+            }
         },
         "Practical Responsive Web Design": {
             "event": "Northeast PHP 2013",
@@ -168,7 +421,49 @@
             "page_link": "/rwd",
             "rate_link": "http://joind.in/talk/view/8898",
             "video_link": "https://www.youtube.com/watch?v=S2-pYh2jpjM",
-            "slides_link": "https://speakerdeck.com/jklein/practical-responsive-web-design"
+            "slides_link": "https://speakerdeck.com/jklein/practical-responsive-web-design",
+            "speakerdeck_id": "0690b6702d250131ff12122461a0ee5c",
+            "speakerdeck_ratio": "1.2994923857868",
+            "links": {
+                "left": {
+                    "Image Compression": {
+                        "http://www.smushit.com/ysmush.it/": "SmushIt",
+                        "https://developers.google.com/speed/pagespeed/": "PageSpeed",
+                        "https://github.com/mikebrittain/Wesley": "Wesley (command line tool)"
+                    },
+                    "Picturefill": {
+                        "https://github.com/scottjehl/picturefill": "Github Project",
+                        "http://scottjehl.github.io/picturefill/": "Demo Page"
+                    },
+                    "Clown Car Technique": {
+                        "http://coding.smashingmagazine.com/2013/06/02/clown-car-technique-solving-for-adaptive-images-in-responsive-web-design/": "Initial Article",
+                        "https://github.com/estelle/clowncar": "GitHub Project"
+                    },
+                    "Handling Old IE": {
+                        "http://adactio.com/journal/4494/": "Conditional Comments",
+                        "http://buildmobile.com/understanding-responsive-web-design-cross-browser-compatibility/": "Understanding Cross Browser Compatibility"
+                    }
+                },
+                "right": {
+                    "Responsive Images": {
+                        "http://blog.cloudfour.com/responsive-imgs/": "Responsive Images Part 1",
+                        "http://blog.cloudfour.com/responsive-imgs-part-2/": "Responsive Images Part 2",
+                        "http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/": "Responsive Images Part 3",
+                        "http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/": "8 Guidelines and 1 Rule",
+                        "http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/": "Sensible Jumps in File Size",
+                        "http://adaptive-images.com/": "Adaptive-images"
+                    },
+                    "Display:none": {
+                        "http://timkadlec.com/2012/04/media-query-asset-downloading-results/": "Asset downloading results",
+                        "http://alistapart.com/article/now-you-see-me": "Now you see me"
+                    },
+                    "Other Links": {
+                        "https://github.com/igrigorik/http-client-hints/": "Client Hints",
+                        "http://www.etsy.com/careers": "Etsy Careers",
+                        "http://www.jonathanklein.net": "My Blog"
+                    }
+                }
+            }
         },
         "High Performance PHP": {
             "event": "PHPDay 2013",
@@ -176,7 +471,54 @@
             "page_link": "/phpday",
             "rate_link": "http://joind.in/talk/view/8644",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/high-performance-php"
+            "slides_link": "https://speakerdeck.com/jklein/high-performance-php",
+            "speakerdeck_id": "f23d8c004e16013133f2221e5e1793ff",
+            "speakerdeck_ratio": "1.2994923857868",
+            "links": {
+                "left": {
+                    "The Value of Performance": {
+                        "http://www.phpied.com/the-performance-business-pitch/": "The Performance Business Pitch",
+                        "http://torbit.com/blog/2012/09/19/some-interesting-performance-statistics/": "Bounce Rate vs. Performance",
+                        "http://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/": "The Performance Golden Rule",
+                        "http://www.nngroup.com/articles/response-times-3-important-limits/": "Response Time Limits"
+                    },
+                    "Monitoring Tools": {
+                        "http://goo.gl/LbDPE": "StatsD",
+                        "http://graphite.wikidot.com/": "Graphite",
+                        "http://www.aosabook.org/en/graphite.html": "Graphite Architecture",
+                        "https://github.com/facebook/xhprof": "xhprof",
+                        "http://phpbench.com/": "PHPBench"
+                    },
+                    "APC": {
+                        "http://www.slideshare.net/vortexau/improving-php-application-performance-with-apc-presentation": "Overview Presentation",
+                        "http://engineering.wayfair.com/moving-constants-out-of-apc-and-into-cdb/": "CDB vs. APC"
+                    },
+                    "Framework Benchmarks": {
+                        "http://systemsarchitect.net/performance-benchmark-of-popular-php-frameworks/": "PHP Framework Comparison",
+                        "http://www.techempower.com/benchmarks/": "Comparison of Many Web Frameworks"
+                    }
+                },
+                "right": {
+                    "Upgrading PHP": {
+                        "http://news.php.net/php.internals/36484": "PHP 5.2 to 5.3 improvement",
+                        "http://news.php.net/php.internals/57760": "PHP 5.3 to 5.4 improvement",
+                        "http://php.net/migration53": "PHP 5.2 to 5.3 migration guide",
+                        "http://php.net/migration54": "PHP 5.3 to 5.4 migration guide",
+                        "http://static.zend.com/topics/White-paper-PHP4-PHP5.pdf": "PHP5 vs. PHP4"
+                    },
+                    "HipHop": {
+                        "http://developers.facebook.com/blog/post/2010/02/02/hiphop-for-php--move-fast/": "Announcement",
+                        "https://www.facebook.com/notes/facebook-engineering/speeding-up-php-based-development-with-hiphop-vm/10151170460698920": "HipHop VM",
+                        "https://github.com/facebook/hiphop-php": "Github project"
+                    },
+                    "Other Links": {
+                        "http://code.flickr.net/2009/12/02/flipping-out/": "Feature Flags at Flickr",
+                        "http://web-performance.meetup.com/": "Web Performance Meetups",
+                        "http://www.etsy.com/careers": "Etsy Careers",
+                        "http://www.jonathanklein.net": "My Blog"
+                    }
+                }
+            }
         },
         "Practical Responsive Web Design ": {
             "event": "JSDay 2013",
@@ -184,7 +526,49 @@
             "page_link": "/jsday",
             "rate_link": "http://joind.in/talk/view/8595",
             "video_link": "",
-            "slides_link": "https://speakerdeck.com/jklein/practical-responsive-web-design-jsday"
+            "slides_link": "https://speakerdeck.com/jklein/practical-responsive-web-design-jsday",
+            "speakerdeck_id": "1df8a2a01cbf0132f325123486985575",
+            "speakerdeck_ratio": "1.33333333333333",
+            "links": {
+                "left": {
+                    "Image Compression": {
+                        "http://www.smushit.com/ysmush.it/": "SmushIt",
+                        "https://developers.google.com/speed/pagespeed/": "PageSpeed",
+                        "https://github.com/mikebrittain/Wesley": "Wesley (command line tool)"
+                    },
+                    "Picturefill": {
+                        "https://github.com/scottjehl/picturefill": "Github Project",
+                        "http://scottjehl.github.io/picturefill/": "Demo Page"
+                    },
+                    "Clown Car Technique": {
+                        "http://coding.smashingmagazine.com/2013/06/02/clown-car-technique-solving-for-adaptive-images-in-responsive-web-design/": "Initial Article",
+                        "https://github.com/estelle/clowncar": "GitHub Project"
+                    },
+                    "Handling Old IE": {
+                        "http://adactio.com/journal/4494/": "Conditional Comments",
+                        "http://buildmobile.com/understanding-responsive-web-design-cross-browser-compatibility/": "Understanding Cross Browser Compatibility"
+                    }
+                },
+                "right": {
+                    "Responsive Images": {
+                        "http://blog.cloudfour.com/responsive-imgs/": "Responsive Images Part 1",
+                        "http://blog.cloudfour.com/responsive-imgs-part-2/": "Responsive Images Part 2",
+                        "http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/": "Responsive Images Part 3",
+                        "http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/": "8 Guidelines and 1 Rule",
+                        "http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/": "Sensible Jumps in File Size",
+                        "http://adaptive-images.com/": "Adaptive-images"
+                    },
+                    "Display:none": {
+                        "http://timkadlec.com/2012/04/media-query-asset-downloading-results/": "Asset downloading results",
+                        "http://alistapart.com/article/now-you-see-me": "Now you see me"
+                    },
+                    "Other Links": {
+                        "https://github.com/igrigorik/http-client-hints/": "Client Hints",
+                        "http://www.etsy.com/careers": "Etsy Careers",
+                        "http://www.jonathanklein.net": "My Blog"
+                    }
+                }
+            }
         }
     },
 
