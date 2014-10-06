@@ -10,7 +10,7 @@ include 'modules/header.php';
             <?php
             if (!empty($data['video_link'])) { ?>
                 <div class="col-md-12">
-                    <h4><a href="<?=$data['video_link'];?>">Watch the Video Here</a></h4>
+                    <h4><a href="<?=$data['video_link'];?>"><i class="fa fa-video-camera"></i>&nbsp;Watch the Video Here</a></h4>
                 </div>
             <?php
             } ?>

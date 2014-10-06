@@ -17,9 +17,12 @@ if (empty($talks_data)) {
             </div>
             <div class="list-group">
                 <?php
-                foreach ($talks as $title => $data) { ?>
+                foreach ($talks as $title => $data) {
+                    $icon = !empty($data['video_link']) ? '<i class="fa fa-video-camera"></i>' : '';
+                    ?>
                     <a href="<?=$data['page_link']?>" class="list-group-item">
                         <span class="badge"><?=date('F jS', strtotime($data['date']));?></span>
+                        <?=$icon?>
                         <?=$title?>
                         <span class="label label-primary"><?=$data['event']?></span>
                 </a>
