@@ -13,7 +13,8 @@ include 'modules/header.php';
                     <h4><a href="<?=$data['video_link'];?>"><i class="fa fa-video-camera"></i>&nbsp;Watch the Video Here</a></h4>
                 </div>
             <?php
-            } ?>
+            }
+            if (!empty($data['speakerdeck_id']) && !empty($data['speakerdeck_ratio'])) { ?>
             <script async class="speakerdeck-embed" data-id="<?=$data['speakerdeck_id']?>" data-ratio="<?=$data['speakerdeck_ratio']?>" src="//speakerdeck.com/assets/embed.js"></script>
             <div style="margin-bottom:5px">
                 <strong>
@@ -23,6 +24,8 @@ include 'modules/header.php';
                 </strong> from
                 <strong><a href="https://speakerdeck.com/jklein" target="_blank">Jonathan Klein</a></strong><br />
             </div>
+            <?php
+            } ?>
             <h2><a href="<?=$data['rate_link']?>">Rate this talk!</a></h2>
         </div>
         <div class="col-md-1"></div>

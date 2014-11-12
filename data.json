@@ -1,17 +1,41 @@
 {
-
-    "Upcoming": {
+    "2014": {
         "Cognitive Biases in Engineering Organizations": {
             "event": "Velocity Barcelona 2014",
-            "date": "2014-11-14",
-            "page_link": "http://velocityconf.com/velocityeu2014/public/schedule/detail/36806",
-            "rate_link": "",
+            "date": "2014-11-17",
+            "page_link": "/biases",
+            "rate_link": "http://velocityconf.com/velocityeu2014/public/schedule/detail/36806",
             "video_link": "",
-            "slides_link": ""
-        }
-    },
-
-    "2014": {
+            "slides_link": "",
+            "links": {
+                "left": {
+                    "Cognitive Biases": {
+                        "http://en.wikipedia.org/wiki/Projection_bias": "Projection Bias",
+                        "http://en.wikipedia.org/wiki/Planning_fallacy": "Planning Fallacy",
+                        "http://en.wikipedia.org/wiki/Bandwagon_effect": "Bandwagon Effect",
+                        "http://en.wikipedia.org/wiki/Sunk_costs": "Sunk Cost Fallacy",
+                        "http://en.wikipedia.org/wiki/Hyperbolic_discounting": "Hyperbolic Discounting",
+                        "http://en.wikipedia.org/wiki/Fundamental_attribution_error": "Fundamental Attribution Error"
+                    },
+                    "Tools": {
+                        "http://store.mountaingoatsoftware.com/": "Planning Poker Cards"
+                    }
+                },
+                "right": {
+                    "Other References" : {
+                        "http://fundersandfounders.com/will-i-succeed-with-my-startup-the-odds-of-making-it/": "Startup Success Rates"
+                    },
+                    "Places to Learn More": {
+                        "http://www.amazon.com/gp/product/B00555X8OA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00555X8OA&linkCode=as2&tag=wwwjonathankl-20&linkId=RUATPZLSHP6YCOSZ": "Thinking, Fast and Slow",
+                        "http://www.amazon.com/gp/product/B002C949KE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002C949KE&linkCode=as2&tag=wwwjonathankl-20&linkId=L2SVRCKO2YD7B3WT": "Predictably Irrational",
+                        "http://www.amazon.com/gp/product/B0052RE5MU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0052RE5MU&linkCode=as2&tag=wwwjonathankl-20&linkId=RKL2MT6KCUZKYPO2": "You Are Not So Smart - Book",
+                        "http://youarenotsosmart.com/podcast/": "You Are Not So Smart - Podcast",
+                        "http://hpmor.com/": "Harry Potter and the Methods of Rationality",
+                        "http://www.jonathanklein.net/2013/06/cognitive-biases-in-software-engineering.html": "My blog post that this talk is based on"
+                    }
+                }
+            }
+        },
         "Composer: From Beginner to Expert": {
             "event": "Northeast PHP 2014",
             "date": "2014-9-7",
