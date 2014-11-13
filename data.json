@@ -6,7 +6,9 @@
             "page_link": "/biases",
             "rate_link": "http://velocityconf.com/velocityeu2014/public/schedule/detail/36806",
             "video_link": "",
-            "slides_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/cognitive-biases-in-engineering-organizations",
+            "speakerdeck_id": "688c7ae04d7c013221552e86ea879e25",
+            "speakerdeck_ratio": "1.77777777777778",
             "links": {
                 "left": {
                     "Cognitive Biases": {
