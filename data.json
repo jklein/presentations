@@ -1,4 +1,15 @@
 {
+    "Upcoming": {
+        "Demystifying SPDY and HTTP/2": {
+            "event": "Fluent 2015",
+            "date": "2015-04-21",
+            "page_link": "http://en.oreilly.com/javascript-html-2015/public/schedule/detail/38990",
+            "rate_link": "",
+            "video_link": "",
+            "slides_link": ""
+        }
+    },
+
     "2014": {
         "Cognitive Biases in Engineering Organizations": {
             "event": "Velocity Barcelona 2014",
