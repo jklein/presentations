@@ -3,10 +3,35 @@
         "Demystifying SPDY and HTTP/2": {
             "event": "Fluent 2015",
             "date": "2015-04-21",
-            "page_link": "http://en.oreilly.com/javascript-html-2015/public/schedule/detail/38990",
-            "rate_link": "",
+            "page_link": "/http2",
+            "rate_link": "http://en.oreilly.com/javascript-html-2015/public/schedule/detail/38990",
             "video_link": "",
-            "slides_link": ""
+            "slides_link": "",
+            "links": {
+                "left": {
+                    "HTTP/2": {
+                        "https://tools.ietf.org/html/draft-ietf-httpbis-http2-17": "Current Spec",
+                        "https://github.com/http2/http2-spec/wiki/Implementations": "Implementations",
+                        "https://www.mnot.net/blog/2015/02/18/http2": "HTTP/2 is Done",
+                        "http://http2.github.io/faq/": "FAQ"
+                    },
+                    "Support": {
+                        "http://nginx.com/blog/how-nginx-plans-to-support-http2/": "nginx",
+                        "http://blogs.iis.net/nazim/archive/2014/10/29/http-2-for-iis-in-windows-10-technical-preview.aspx": "IIS",
+                        "http://blog.chromium.org/2015/02/hello-http2-goodbye-spdy-http-is_9.html": "Chrome Removing SPDY Support"
+                    }
+                },
+                "right": {
+                    "Examples": {
+                        "https://wondernetwork.com/pings/Boston/San+Francisco": "Boston to San Francisco Ping",
+                        "http://blog.chromium.org/2013/11/making-web-faster-with-spdy-and-http2.html": "Google Speed Results"
+                    },
+                    "Other Resources": {
+                        "https://www.stevesouders.com/blog/2010/07/13/velocity-tcp-and-the-lower-bound-of-web-performance/": "TCP and the lower bound of web performance",
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                    }
+                }
+            }
         }
     },
 

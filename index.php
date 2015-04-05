@@ -13,25 +13,25 @@ if ($app->talks_data === null) {
     switch (json_last_error()) {
         case JSON_ERROR_NONE:
             $json_error = ' - No errors';
-        break;
+            break;
         case JSON_ERROR_DEPTH:
             $json_error = ' - Maximum stack depth exceeded';
-        break;
+            break;
         case JSON_ERROR_STATE_MISMATCH:
             $json_error = ' - Underflow or the modes mismatch';
-        break;
+            break;
         case JSON_ERROR_CTRL_CHAR:
             $json_error = ' - Unexpected control character found';
-        break;
+            break;
         case JSON_ERROR_SYNTAX:
             $json_error = ' - Syntax error, malformed JSON';
-        break;
+            break;
         case JSON_ERROR_UTF8:
             $json_error = ' - Malformed UTF-8 characters, possibly incorrectly encoded';
-        break;
+            break;
         default:
             $json_error = ' - Unknown error';
-        break;
+            break;
     }
 
     die("Failed to parse JSON data " . $json_error);
