@@ -34,6 +34,42 @@
                     }
                 }
             }
+        },
+        "Demystifying SPDY and HTTP/2": {
+            "event": "Velocity Amsterdam 2015",
+            "date": "2015-10-29",
+            "page_link": "/amsterdam",
+            "rate_link": "http://velocityconf.com/devops-web-performance-eu-2015/public/schedule/detail/43757",
+            "video_link": "",
+            "slides_link": "https://speakerdeck.com/jklein/2",
+            "speakerdeck_id": "5ad8219b4bb543a8a9ed15319f9521be",
+            "speakerdeck_ratio": "1.77777777777778",
+            "links": {
+                "left": {
+                    "HTTP/2": {
+                        "https://tools.ietf.org/html/draft-ietf-httpbis-http2-17": "Current Spec",
+                        "https://github.com/http2/http2-spec/wiki/Implementations": "Implementations",
+                        "https://www.mnot.net/blog/2015/02/18/http2": "HTTP/2 is Done",
+                        "http://http2.github.io/faq/": "FAQ"
+                    },
+                    "Support": {
+                        "https://www.nginx.com/blog/nginx-1-9-5/": "nginx",
+                        "http://httpd.apache.org/docs/trunk/mod/mod_http2.html": "Apache",
+                        "http://blogs.iis.net/davidso/http2": "IIS",
+                        "http://blog.chromium.org/2015/02/hello-http2-goodbye-spdy-http-is_9.html": "Chrome Removing SPDY Support"
+                    }
+                },
+                "right": {
+                    "Examples": {
+                        "https://wondernetwork.com/pings/Boston/Amsterdam": "Boston to Amsterdam Ping",
+                        "http://blog.chromium.org/2013/11/making-web-faster-with-spdy-and-http2.html": "Google Speed Results"
+                    },
+                    "Other Resources": {
+                        "https://www.stevesouders.com/blog/2010/07/13/velocity-tcp-and-the-lower-bound-of-web-performance/": "TCP and the Lower Bound of Web Performance",
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                    }
+                }
+            }
         }
     },
 
@@ -648,4 +684,3 @@
         }
     }
 }
-
