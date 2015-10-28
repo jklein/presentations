@@ -66,7 +66,8 @@
                     },
                     "Other Resources": {
                         "https://www.stevesouders.com/blog/2010/07/13/velocity-tcp-and-the-lower-bound-of-web-performance/": "TCP and the Lower Bound of Web Performance",
-                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking"
+                        "http://chimera.labs.oreilly.com/books/1230000000545": "High Performance Browser Networking",
+                        "https://www.nginx.com/blog/7-tips-for-faster-http2-performance/": "7 Tips for Faster HTTP/2 Performance"
                     }
                 }
             }
