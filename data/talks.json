@@ -115,7 +115,6 @@
       }
     }
   },
-
   "2014": {
     "Cognitive Biases in Engineering Organizations": {
       "event": "Velocity Barcelona 2014",
@@ -354,7 +353,6 @@
       }
     }
   },
-
   "2013": {
     "DIY Synthetic: Private WebPagetest Magic ": {
       "event": "HubSpot Tech Talk",
@@ -494,18 +492,22 @@
     "Performance and User Experience": {
       "event": "UX Fest 2013",
       "date": "2013-10-01",
-      "page_link": "https://speakerdeck.com/jklein/performance-and-user-experience",
+      "page_link": "/uxfest",
       "rate_link": "",
       "video_link": "",
-      "slides_link": "https://speakerdeck.com/jklein/performance-and-user-experience"
+      "slides_link": "https://speakerdeck.com/jklein/performance-and-user-experience",
+      "speakerdeck_id": "a3c7808030130131897f72dc049c047a",
+      "speakerdeck_ratio": "1.74446337308348"
     },
     "Rendering Performance Panel": {
       "event": "Edge Conference New York 2013",
       "date": "2013-9-23",
-      "page_link": "https://edgeconf.com/2013-nyc?v=DjcSbvBWSb0",
+      "page_link": "/edge",
       "rate_link": "",
       "video_link": "https://www.youtube.com/watch?v=DjcSbvBWSb0",
-      "slides_link": "https://speakerdeck.com/jklein/edge-conf-rendering-performance-panel-opening-talk"
+      "slides_link": "https://speakerdeck.com/jklein/edge-conf-rendering-performance-panel-opening-talk",
+      "speakerdeck_id": "a3c7808030130131897f72dc049c047a",
+      "speakerdeck_ratio": "1.74446337308348"
     },
     "Scaling PHP to 40 Million Uniques": {
       "event": "Northeast PHP 2013",
@@ -715,15 +717,16 @@
       }
     }
   },
-
   "2012": {
     "High Performance PHP": {
       "event": "Northeast PHP 2012",
       "date": "2012-8-11",
-      "page_link": "https://joind.in/talk/view/6811",
-      "rate_link": "",
+      "page_link": "/nephp2012",
+      "rate_link": "https://joind.in/talk/view/6811",
       "video_link": "",
-      "slides_link": "http://www.slideshare.net/jnklein/northeast-php-high-performance-php"
+      "slides_link": "http://www.slideshare.net/jnklein/northeast-php-high-performance-php",
+      "speakerdeck_id": "",
+      "speakerdeck_ratio": ""
     }
   }
 }

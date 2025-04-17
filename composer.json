@@ -1,13 +1,13 @@
 {
-    "name": "jklein/presentations",
-    "description": "Simple pages to make it easy to find resources for my presentations",
-    "require": {
-        "slim/slim": "2.4.*"
-    },
-    "authors": [
-        {
-            "name": "Jonathan Klein",
-            "email": "jonathan.n.klein@gmail.com"
-        }
-    ]
+  "name": "jklein/presentations",
+  "description": "Simple pages to make it easy to find resources for my presentations",
+  "require": {
+    "slim/slim": "2.4.*"
+  },
+  "authors": [
+    {
+      "name": "Jonathan Klein",
+      "email": "jonathan.n.klein@gmail.com"
+    }
+  ]
 }
