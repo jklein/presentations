@@ -10,7 +10,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1 container mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold text-center mb-8">Conference Talks</h1>
+        <h1 className="text-3xl font-bold text-center mb-8">All Talks</h1>
         <TalkList talks={talks} />
       </main>
       <Footer />

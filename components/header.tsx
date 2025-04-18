@@ -6,7 +6,7 @@ export function Header() {
     <header className="border-b bg-background">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          Conference Talks
+          Jonathan Klein's Conference Talks
         </Link>
         <div className="flex items-center gap-4">
           <nav>
